@@ -1,12 +1,12 @@
 <resources>
-    <string name="app_name">AndroidCourse_6_LemonadeApp</string>
-    <string name="click_lemon_tree_to_get_lemon">Click lemon tree to get lemon.</string>
+    <string name="app_name">Lemonade App</string>
+    <string name="click_lemon_tree_to_get_lemon">Click the lemon tree to get a lemon.</string>
     <string name="lemon_tree">Lemon Tree</string>
-    <string name="lemon_slice">Lemon Slice</string>
-    <string name="keep_clicking_to_squeeze_lemon">Keep clicking to squeeze lemon.</string>
+    <string name="lemon_slice">Lemon</string>
+    <string name="keep_clicking_to_squeeze_lemon">Keep clicking to squeeze the lemon.</string>
     <string name="lemonade">Lemonade</string>
-    <string name="click_to_drink_lemonade">Click to drink lemonade.</string>
+    <string name="click_to_drink_lemonade">Click to drink the lemonade.</string>
     <string name="empty_glass">Empty Glass</string>
-    <string name="click_to_restart">Click to restart</string>
+    <string name="click_to_restart">Click to restart.</string>
     <string name="lemonade_text">Lemonade</string>
 </resources>

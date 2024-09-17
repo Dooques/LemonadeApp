@@ -66,8 +66,8 @@ fun TitleHeader(modifier: Modifier = Modifier) {
     Box(
         modifier
             .fillMaxWidth()
-            .height(100.dp)
-            .background(Color.Yellow),
+            .fillMaxHeight(0.1F)
+            .background(Color(0xffFFFD9C)),
         contentAlignment = Alignment.Center
         ) {
         Text(
@@ -94,7 +94,7 @@ fun ClickableLemons(modifier: Modifier = Modifier) {
         Button(
             modifier = modifier
                 .background(Color.Transparent),
-            colors = ButtonDefaults.buttonColors(containerColor = Color(0xff98FF98)),
+            colors = ButtonDefaults.buttonColors(containerColor = Color(0xffC6FFB4)),
             shape = RoundedCornerShape(50.dp),
             onClick = {
                 when (result) {
